@@ -1,6 +1,6 @@
 # Terms & Conditions
 
-**Last updated: September 24, 2026**
+**Last updated: September 25, 2026**
 
 Please read these Terms & Conditions ("Terms") carefully before purchasing or using any product from SpecDevShip ("SpecDevShip," "we," "us," or "our"). By purchasing, downloading, or using a SpecDevShip product — including the free Field Guide or the paid Skill Pack — you agree to be bound by these Terms. If you do not agree, do not purchase or use our products.
 
@@ -15,19 +15,20 @@ SpecDevShip offers:
 - **The Field Guide** — a free eBook explaining our spec-driven development workflow.
 - **The Skill Pack** — a paid, one-time-purchase digital product consisting of installable skill files ("skills") that implement a spec-driven development workflow for use with AI coding agents. The Skill Pack is currently distributed as a **Claude Code Edition**; additional editions for other AI coding agents may be added over time as part of the same product (see Section 4, "Lifetime Updates," below).
 
-Both products are digital goods delivered electronically. Nothing physical is shipped.
+Both products are digital goods delivered electronically. Nothing physical is shipped. The Skill Pack is delivered as read-only access to a private GitHub repository, so you need a GitHub account to receive it.
 
 ## 3. License Grant
 
 When you purchase the Skill Pack, we grant you a personal, non-exclusive, non-transferable, revocable license to:
 
-- Download, install, and use the Skill Pack's contents in your own personal or commercial software projects, without limit on the number of projects you use it in;
+- Access the Skill Pack's private repository with your own GitHub account, and download (clone), install, and use its contents in your own personal or commercial software projects, without limit on the number of projects you use it in;
 - Modify your own local copy of the skill files for your own use.
 
 This license does **not** permit you to:
 
 - Resell, sublicense, rent, lease, or redistribute the Skill Pack (or substantially similar derivative works of it) to any third party, whether for free or for payment;
 - Publish, mirror, or otherwise make the Skill Pack's files publicly available in a way that would allow others to obtain it without purchasing it themselves;
+- Share your access to the Skill Pack's repository with others, or give others access through your GitHub account;
 - Claim authorship of the Skill Pack itself, or represent it as a product of your own creation.
 
 You may use output produced *with the help of* the Skill Pack (i.e., code, documents, or specs your AI agent generates while the pack is installed) however you like, including commercially, without restriction or attribution.
@@ -46,16 +47,16 @@ Where we describe the Skill Pack as including "lifetime updates," this specifica
 - The Skill Pack is sold as a one-time payment; it is not a subscription, and you will not be charged again for continued access to updates covered under Section 4.
 - Prices are subject to change at any time for future purchasers. A price change does not retroactively affect a purchase you have already made, and does not entitle existing purchasers to a refund or credit for the difference.
 - All prices are listed in U.S. dollars unless otherwise noted. You are responsible for any applicable sales tax, VAT, or similar charges required by your jurisdiction; where required by law, such charges will be calculated and collected at checkout.
-- Payments are processed by a third-party payment processor. We do not store your full payment card details.
+- Orders are processed by Polar (polar.sh), our online reseller and merchant of record. Polar handles checkout, payment, applicable sales tax and VAT, receipts, and payment-related inquiries, and its own terms of sale also apply to your purchase. We do not receive or store your full payment card details.
 
 ## 6. Refund Policy
 
-All Skill Pack purchases are final and non-refundable. The Skill Pack is a digital product delivered as downloadable, installable files, so there is no way to "return" it the way you would unopened physical merchandise — once the files are delivered, a refund cannot undo your ability to keep and use a copy of them. This is standard practice for digital and software products, and we apply it here for that reason.
+All Skill Pack purchases are final and non-refundable. The Skill Pack is a digital product delivered as access to a repository of installable files, so there is no way to "return" it the way you would unopened physical merchandise — once you have access, a refund cannot undo your ability to keep and use a copy of the files. This is standard practice for digital and software products, and we apply it here for that reason.
 
 - Please use the free Field Guide and any available preview material to evaluate whether the Skill Pack fits your workflow before purchasing.
 - Dissatisfaction, change of mind, or the Skill Pack not being what you expected are not grounds for a refund.
-- The narrow exception is a billing problem, not a product problem: a duplicate or erroneous charge, or a checkout failure that prevented delivery and that we are unable to resolve by simply re-sending your access. Contact **{{ BILLING_EMAIL }}** with your order details if either applies, and we will make it right.
-- If a refund is issued under the circumstances above, your license under Section 3 terminates immediately, and you must delete any copies of the Skill Pack in your possession.
+- The narrow exception is a billing problem, not a product problem: a duplicate or erroneous charge, or a checkout failure that prevented delivery and that we are unable to resolve by simply re-sending your access. Contact **{{ BILLING_EMAIL }}** with your order details if either applies, and we will make it right. Approved refunds are issued through Polar to your original payment method.
+- If a refund is issued for any reason, your license under Section 3 terminates immediately, your access to the Skill Pack's repository is removed, and you must delete any copies of the Skill Pack in your possession.
 - The free Field Guide has no associated payment and is therefore not eligible for a refund.
 
 ## 7. Intellectual Property
@@ -80,7 +81,7 @@ To the fullest extent permitted by law, SpecDevShip and its owners, contributors
 
 ## 11. Third-Party Services
 
-Our products are designed to work with third-party AI coding agent platforms (such as Claude Code) that we do not own or control. We are not responsible for changes, discontinuation, outages, or policy changes made by those third-party platforms that affect how our products function. We also use third-party service providers — including an email marketing platform and a payment processor — to deliver our products and communications; their own terms and privacy practices also apply to your use of their services.
+Our products are designed to work with third-party AI coding agent platforms (such as Claude Code) that we do not own or control. We are not responsible for changes, discontinuation, outages, or policy changes made by those third-party platforms that affect how our products function. We also use third-party service providers — including an email marketing platform, Polar as our merchant of record for purchases, and GitHub to deliver the Skill Pack — to deliver our products and communications; their own terms and privacy practices also apply to your use of their services.
 
 ## 12. Changes to the Product
 
