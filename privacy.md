@@ -17,9 +17,9 @@ SpecDevShip ("SpecDevShip," "we," "us," or "our") respects your privacy. This Pr
 
 **Information collected automatically:**
 
-- **Basic usage and analytics data** — such as pages visited, referring source, device/browser type, and approximate location (derived from IP address), collected via standard website analytics tools.
+- **Basic usage and analytics data** — such as pages visited, referring source and campaign, device/browser type, approximate location (derived from IP address), and which buttons and forms are used (for example, whether a signup succeeded). We collect this with Umami, a privacy-focused analytics tool that doesn't use cookies, doesn't track you across other websites, and doesn't receive your name or email address. If your browser sends a Do Not Track signal, your visit isn't recorded.
 - **Bot-protection signals** — when you use our contact form, Cloudflare Turnstile checks that the request comes from a person rather than an automated program. To do this, Cloudflare processes information about your browser and device, including your IP address.
-- **Cookies and similar technologies** — small files stored in your browser to support basic site functionality and to understand aggregate usage of our site. You can disable cookies through your browser settings; doing so may affect some site functionality.
+- **Cookies and similar technologies** — we don't use cookies for analytics or advertising. Some services that help run the site, such as our bot protection, may use cookies or similar browser storage that are necessary for them to work. You can disable cookies through your browser settings; doing so may affect some site functionality.
 
 We do not knowingly collect any special categories of sensitive personal data (such as health, financial account, or biometric data) beyond what's needed to process a standard payment transaction, which is handled by our payment processor.
 
@@ -51,7 +51,7 @@ We rely on third-party service providers to operate our business, including:
 - **Website hosting** (currently Vercel) — to host our website and run the services behind its forms;
 - **Bot protection** (currently Cloudflare Turnstile) — to protect our contact form from spam and automated abuse;
 - **Payment processor** — to securely process purchases of the Skill Pack;
-- **Analytics providers** — to understand aggregate traffic to our site.
+- **Analytics provider** (currently Umami) — to understand aggregate traffic to our site, without cookies.
 
 Each of these providers processes your information under their own privacy policies and security practices. We choose providers that maintain reasonable data protection standards, but we encourage you to review their respective privacy policies as well.
 
