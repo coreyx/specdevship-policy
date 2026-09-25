@@ -49,14 +49,17 @@ Where we describe the Skill Pack as including "lifetime updates," this specifica
 - All prices are listed in U.S. dollars unless otherwise noted. You are responsible for any applicable sales tax, VAT, or similar charges required by your jurisdiction; where required by law, such charges will be calculated and collected at checkout.
 - Orders are processed by Polar (polar.sh), our online reseller and merchant of record. Polar handles checkout, payment, applicable sales tax and VAT, receipts, and payment-related inquiries, and its own terms of sale also apply to your purchase. We do not receive or store your full payment card details.
 
-## 6. Refund Policy
+## 6. Refund Policy: 14-Day Money-Back Guarantee
 
-All Skill Pack purchases are final and non-refundable. The Skill Pack is a digital product delivered as access to a repository of installable files, so there is no way to "return" it the way you would unopened physical merchandise — once you have access, a refund cannot undo your ability to keep and use a copy of the files. This is standard practice for digital and software products, and we apply it here for that reason.
+If the Skill Pack isn't right for you, you can request a full refund within **14 days** of your purchase, for any reason. Contact **{{ BILLING_EMAIL }}** with the email address you used at checkout and your order details. Approved refunds are issued through Polar, our merchant of record, to your original payment method.
 
-- Please use the free Field Guide and any available preview material to evaluate whether the Skill Pack fits your workflow before purchasing.
-- Dissatisfaction, change of mind, or the Skill Pack not being what you expected are not grounds for a refund.
-- The narrow exception is a billing problem, not a product problem: a duplicate or erroneous charge, or a checkout failure that prevented delivery and that we are unable to resolve by simply re-sending your access. Contact **{{ BILLING_EMAIL }}** with your order details if either applies, and we will make it right. Approved refunds are issued through Polar to your original payment method.
-- If a refund is issued for any reason, your license under Section 3 terminates immediately, your access to the Skill Pack's repository is removed, and you must delete any copies of the Skill Pack in your possession.
+Before you request a refund, please keep in mind:
+
+- **A refund ends your access, including lifetime updates.** Your license under Section 3 terminates, your access to the Skill Pack's repository is removed, and you must delete any copies of the Skill Pack in your possession. You will no longer receive the updates, improvements, and new agent editions described in Section 4.
+- **Your price and offer aren't held for you.** Prices, launch pricing, and discount offers change over time and may not be available again. If you buy again later, the price and terms in effect at that time apply.
+- **After 14 days, purchases are final,** except for billing problems: a duplicate or erroneous charge, or a checkout failure that prevented delivery and that we are unable to resolve by simply re-sending your access. Contact **{{ BILLING_EMAIL }}** with your order details if either applies, and we will make it right.
+- **Polar may also issue refunds** at its own discretion as merchant of record, for example to resolve a payment dispute. Such a refund ends your access in the same way.
+- **Your legal rights are not affected.** If the law where you live gives you additional rights, such as a statutory right of withdrawal, those rights still apply.
 - The free Field Guide has no associated payment and is therefore not eligible for a refund.
 
 ## 7. Intellectual Property
